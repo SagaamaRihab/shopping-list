@@ -1,0 +1,10 @@
+# ninja log v6
+43	1461	7704876246377047	CMakeFiles/shopping_list.dir/main.cpp.obj	19e0f0631e5f3d44
+140	1954	7704876247326215	CMakeFiles/shopping_list.dir/src/ShoppingList.cpp.obj	7d1b41dc5784d994
+140	2140	7704855467759353	CMakeFiles/shopping_list.dir/src/Item.cpp.obj	ddc693a455a9fa4
+3	1216	7704881521143898	build.ninja	ff6f3c674e0b52f6
+6	1029	7704879813414562	shopping_list.exe	980a4c4e7adfad37
+5	1223	7704879632338202	CMakeFiles/shopping_list.dir/src/User.cpp.obj	e9161bb8aaa1660f
+13	1757	7704881521143898	build.ninja	ff6f3c674e0b52f6
+26	1579	7704881522328443	CMakeFiles/shopping_list.dir/src/User.cpp.obj	e9161bb8aaa1660f
+1580	3149	7704881537865249	shopping_list.exe	980a4c4e7adfad37
